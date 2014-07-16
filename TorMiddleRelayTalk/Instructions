@@ -1,0 +1,73 @@
+Chicago LUG Builds Tor Relays
+
+The Chicago Linux Users Group has been recently discussing a variety
+of security-related topics including Tor, running your own OpenVPN,
+and GPG. As proponents of free and open source software as well as
+supporters of an open Internet we felt it was important to support
+projects like Tor. Thanks to resources donated by Rackspace, we
+are able to run a relatively fast, stable Tor middle relay.
+
+The full slide of the presentation of the presentation can be
+found on our mediagoblin install of the Chicago Linux users group. It 
+is also included in the repository as TorTalk.odp
+
+Below we'll share some quick documenation, some problems (and
+solutions) we ran into and a full configuration file you can use for
+your own Tor relays. It is included in the repository as torrc.tct
+Remember, the Tor network is only as fast as the relays that support it. 
+Also, the more people who use Tor, the better anonymity it provides 
+for everyone whom uses Tor.
+
+We build an Ubuntu server using a Rackspace VPS and the goal was to
+build two relays on the server using configuration management using
+Ansible. (More on that later). First we installed Tor and configured
+it using the below steps. (note: always use the latest documentation
+from TorProject.org [5]). First we edited the sources.list
+
+           sudo vim /etc/apt/sources.list
+
+and added the below line
+
+	deb     http://deb.torproject.org/torproject.org
+	<DISTRIBUTION> main
+
+Note: It is NOT recommended to run unsigned code, you should always
+verify the author of these repositories. This is why its great to have
+GPG signed packages (You are using GPG right?)
+
+             gpg --keyserver keys.gnupg.net --recv 886DDD89
+             gpg --export A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89 |
+sudo apt-key add
+
+Then we grab the latest Tor packages
+
+             sudo apt-get update; sudo apt-get dist-upgrade
+
+and finally we install a repository to manage these GPG keys and
+install the Tor packages and a command line tool.
+
+              sudo apt-get install deb.torproject.org-keyring
+              sudo apt-get install tor arm-cli
+
+To actually edit the tor relay, find and edit the /etc/tor/torrc 
+and make it look something like this: [Example Tor Config]
+
+{Code}
+ControlPort 9051
+#HashedControlPassword
+16:872860B76453A77D60CA2BB8C1A7042072093276A3D701AD684053EC4C
+
+#Port to connect over
+ORPort 9001
+
+### RELAY
+Nickname chiglugansible
+RelayBandwidthRate 1000 KB  # Throttle traffic to 100KB/s (800Kbps)
+RelayBandwidthBurst 2000 KB # But allow bursts up to 200KB/s (1600Kbps)
+AccountingMax 150 GB
+AccountingStart month 3 15:00
+ExitPolicy reject *:* # no exits allowed
+DisableDebuggerAttachment 0
+{Code}
+
+
