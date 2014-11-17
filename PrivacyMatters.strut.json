@@ -94,8 +94,8 @@
       "index": 2,
       "selected": false,
       "active": false,
-      "x": 593,
-      "y": 305
+      "x": 648,
+      "y": 321
     },
     {
       "components": [
@@ -121,8 +121,8 @@
       "index": 3,
       "selected": false,
       "active": false,
-      "x": 778,
-      "y": 392
+      "x": 961,
+      "y": 441
     },
     {
       "components": [
@@ -146,8 +146,8 @@
       "index": 4,
       "selected": false,
       "active": false,
-      "x": 915,
-      "y": 283,
+      "x": 954,
+      "y": 239,
       "surface": "bg-surf-grad-purple"
     },
     {
@@ -172,8 +172,10 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 5,
-      "selected": true,
-      "active": true
+      "selected": false,
+      "active": false,
+      "x": 1271,
+      "y": 232
     },
     {
       "components": [
@@ -194,12 +196,14 @@
       ],
       "z": 0,
       "impScale": 3,
-      "rotateX": 0,
-      "rotateY": 0,
-      "rotateZ": 0,
+      "rotateX": 0.79,
+      "rotateY": 0.79,
+      "rotateZ": 0.79,
       "index": 6,
-      "selected": false,
-      "active": false
+      "selected": true,
+      "active": true,
+      "x": 1412,
+      "y": 485
     },
     {
       "components": [
@@ -227,8 +231,8 @@
       "selected": false,
       "active": false,
       "background": "bg-solid-black",
-      "x": 1375,
-      "y": 451
+      "x": 1639,
+      "y": 358
     },
     {
       "components": [
@@ -254,8 +258,8 @@
       "index": 8,
       "selected": false,
       "active": false,
-      "x": 1590,
-      "y": 289
+      "x": 1684,
+      "y": 126
     },
     {
       "components": [
@@ -295,8 +299,8 @@
       "index": 9,
       "selected": false,
       "active": false,
-      "x": 1784,
-      "y": 142
+      "x": 1941,
+      "y": 127
     },
     {
       "components": [
@@ -322,8 +326,8 @@
       "index": 10,
       "selected": false,
       "active": false,
-      "x": 2054,
-      "y": 256
+      "x": 2196,
+      "y": 127
     },
     {
       "components": [
@@ -349,8 +353,8 @@
       "index": 11,
       "selected": false,
       "active": false,
-      "x": 2309,
-      "y": 257
+      "x": 2446,
+      "y": 127
     },
     {
       "components": [
@@ -377,8 +381,8 @@
       "index": 12,
       "selected": false,
       "active": false,
-      "x": 2559,
-      "y": 257
+      "x": 2702,
+      "y": 215
     },
     {
       "components": [
@@ -404,8 +408,8 @@
       "index": 13,
       "selected": false,
       "active": false,
-      "x": 2764,
-      "y": 379
+      "x": 2716,
+      "y": 425
     },
     {
       "components": [
@@ -431,8 +435,8 @@
       "index": 14,
       "selected": false,
       "active": false,
-      "x": 2973,
-      "y": 498
+      "x": 2718,
+      "y": 613
     },
     {
       "components": [
@@ -471,8 +475,8 @@
       "index": 15,
       "selected": false,
       "active": false,
-      "x": 3180,
-      "y": 620
+      "x": 3120,
+      "y": 610
     },
     {
       "components": [
@@ -551,8 +555,8 @@
       "index": 17,
       "selected": false,
       "active": false,
-      "x": 3182,
-      "y": 455
+      "x": 3124,
+      "y": 418
     },
     {
       "components": [
@@ -632,40 +636,45 @@
       "index": 19,
       "selected": false,
       "active": false,
-      "x": 3182,
-      "y": 281
+      "x": 3122,
+      "y": 216
     }
   ],
   "background": "bg-solid-sky",
   "activeSlide": {
     "components": [
       {
-        "TextBox": {},
-        "x": 23,
-        "y": 83,
+        "src": "http://www.suescornerweb.com/Photo-Albums/Animals-Cats/Privacy%20NOT%20if%20you%20have%20a%20cat.jpg",
+        "type": "Image",
+        "x": 92,
+        "y": 69,
         "scale": {
-          "x": 1,
-          "y": 1
+          "x": 1.688128772635815,
+          "y": 1.688128772635815,
+          "width": 839,
+          "height": 629.672032193159
         },
-        "type": "TextBox",
-        "text": "<font color=\"#b6afaf\">\"Psychologists explain that <br>anger is a natural and <br>appropriate response to <br>violating behavior, to situations <br>where our boundries have<br>&nbsp;been crossed.\"<br>-- Adbuster<br></font>",
-        "size": 72,
+        "imageType": "JPG",
         "selected": false
       }
     ],
     "z": 0,
     "impScale": 3,
-    "rotateX": 0,
-    "rotateY": 0,
-    "rotateZ": 0,
-    "index": 5,
+    "rotateX": 0.79,
+    "rotateY": 0.79,
+    "rotateZ": 0.79,
+    "index": 6,
     "selected": true,
-    "active": true
+    "active": true,
+    "x": 1412,
+    "y": 485
   },
   "fileName": "PrivacyMatters.strut",
   "surface": "bg-surf-grad-purple",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  }
+  },
+  "overviewX": 2560,
+  "overviewY": 433
 }
