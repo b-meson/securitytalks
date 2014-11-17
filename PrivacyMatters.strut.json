@@ -1,0 +1,664 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/hfXce3U.jpg",
+          "type": "Image",
+          "x": 227,
+          "y": 115,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 143,
+          "y": 552,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#b6afaf\">Privacy: Why it matters<br></font>",
+          "size": 72,
+          "selected": false,
+          "skewX": -0.2,
+          "rotate": -0.01
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 78,
+          "y": 169,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#b6afaf\">Freddy Martinez<br><br><br>Privacy Advocate<br>Chicago Cypherpunks Club<br></font>",
+          "size": 72,
+          "selected": false,
+          "skewX": 0,
+          "skewY": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0.02,
+      "rotateY": 1.1,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 458,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 176,
+          "y": 298,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#b6afaf\">The problem with <br>\"who needs privacy...\"<br></font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 3,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 593,
+      "y": 305
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 156,
+          "y": 341,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#b6afaf\">These fucking people...</font><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 778,
+      "y": 392
+    },
+    {
+      "components": [
+        {
+          "src": "http://nypost.com/2014/07/14/is-google-glass-cool-or-just-plain-creepy/",
+          "type": "WebFrame",
+          "x": 32,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -3.3,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 915,
+      "y": 283,
+      "surface": "bg-surf-grad-purple"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 23,
+          "y": 83,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#b6afaf\">\"Psychologists explain that <br>anger is a natural and <br>appropriate response to <br>violating behavior, to situations <br>where our boundries have<br>&nbsp;been crossed.\"<br>-- Adbuster<br></font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1166,
+      "y": 334
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/a5wz0JO.jpg",
+          "type": "Image",
+          "x": 188,
+          "y": 4,
+          "scale": {
+            "x": 1.4863281250000002,
+            "y": 1.4863281250000002,
+            "width": 761.0000000000001,
+            "height": 761.0000000000001
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 50,
+      "impScale": 3,
+      "rotateX": 0.79,
+      "rotateY": -0.79,
+      "rotateZ": 3.14,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-black",
+      "x": 1375,
+      "y": 451
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 147,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#b6afaf\">\"Privacy is not secrecy. <br>[...]<br>Privacy is the power <br>to selectively <br>reveal oneself <br>to the world.\"<br><br>-- Eric Hughes <br></font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1590,
+      "y": 289
+    },
+    {
+      "components": [
+        {
+          "src": "https://images.modelviewculture.com/wp-content/uploads/2014/10/hexe_window.png",
+          "type": "Image",
+          "x": 73,
+          "y": 43,
+          "scale": {
+            "x": 1.272857142857143,
+            "y": 1.272857142857143,
+            "width": 891,
+            "height": 619.8814285714286
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 58,
+          "y": 690,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 42,
+          "text": "<font color=\"#b6afaf\">Photo CC-BY Kelly Bumford, cropped and filtered.</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1784,
+      "y": 142
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 97,
+          "y": 24,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 150,
+          "text": "<div align=\"center\"><b><font color=\"#b6afaf\">Surveillance </font></b><br><b><font color=\"#b6afaf\">is </font></b><br><b><font color=\"#b6afaf\">about </font></b><br><b><font color=\"#b6afaf\">power.</font></b><br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 3.14,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 2054,
+      "y": 256
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 418,
+          "y": 349,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#b6afaf\"><b>Period</b></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 3.14,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 2309,
+      "y": 257
+    },
+    {
+      "components": [
+        {
+          "src": "http://core0.staticworld.net/images/idge/imported/imageapi/2014/03/slide_image_052013-gov-psa-5-100256642-gallery.idge.jpg",
+          "type": "Image",
+          "x": 75,
+          "y": 52,
+          "scale": {
+            "x": 1.6647619047619049,
+            "y": 1.6647619047619049,
+            "width": 874.0000000000001,
+            "height": 657.5809523809525
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -0.79,
+      "rotateY": 0,
+      "rotateZ": -0.79,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 2559,
+      "y": 257
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 36,
+          "y": 337,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 79,
+          "text": "<font color=\"#b6afaf\">Privacy concerns in the wild<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 2764,
+      "y": 379
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 223,
+          "y": 76,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div align=\"center\"><font color=\"#b6afaf\">Mexico<br><br></font></div><font color=\"#b6afaf\"><br></font><div align=\"center\"><font color=\"#b6afaf\">Burner Phone<br>Prepaid SIM<br>Establish 1st contact<br>Dump phone<br><br></font></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 2973,
+      "y": 498
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 141,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#b6afaf\">Domestic Violence Shelter<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 92,
+          "y": 145,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 53,
+          "text": "<font color=\"#b6afaf\">\"Digital Detox\"<br><br></font><ol><li><font color=\"#b6afaf\">Phones are tracking devices</font></li><li><font color=\"#b6afaf\">Spyware is a concern</font></li><li><font color=\"#b6afaf\">Tor to cloak physical location</font></li></ol><font color=\"#b6afaf\"><br>DV is about power and control;<br>surveillance is central to maintaining<br>control. <br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -3.14,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 3180,
+      "y": 620
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 114,
+          "y": 66,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 90,
+          "text": "<font color=\"#b6afaf\">Meeting new people <br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 203,
+          "y": 251,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 56,
+          "text": "<div align=\"center\"><font color=\"#b6afaf\">They work in sex industry</font><br><br><font color=\"#b6afaf\">Google Voice Number</font><br><font color=\"#b6afaf\">Pseudonym online </font><br><font color=\"#b6afaf\">Meet in public</font><br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 4380,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 98,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 76,
+          "text": "<font color=\"#b6afaf\">Undocument immigrants<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 179,
+          "y": 210,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 73,
+          "text": "<div align=\"center\"><font color=\"#b6afaf\">Use shared SSN<br>Were paid in cash<br>Don't reveal status<br>Move into immigrant<br>friendly areas </font><br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 3182,
+      "y": 455
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 336,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#b6afaf\">Questions?</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/Z0JQegY.jpg",
+          "type": "Image",
+          "x": 325,
+          "y": 142,
+          "scale": {
+            "x": 0.5442857142857144,
+            "y": 0.5442857142857144,
+            "width": 381.00000000000006,
+            "height": 588.917142857143
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 4940,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 385,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#b6afaf\">Sources</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 21,
+          "y": 199,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div align=\"center\"><font color=\"#b6afaf\">https://www.flickr.com/photos/kellybumford/2577526917/<br><br>https://modelviewculture.com/pieces/sex-wor<br>k-and-surveillance<br><br>http://www.npr.org/blogs/alltechconsidered/2014/09/<br>15/346149979/<br>smartphones-are-used-to-stalk-control-domestic-abuse-victims<br></font></div><div align=\"center\"><font color=\"#b6afaf\"><br></font></div><div align=\"center\"><font color=\"#b6afaf\">http://www.csoonline.com/article/2130983/access-control</font><span style=\"color: rgb(182, 175, 175);\">/101611</span></div><div align=\"center\"><span style=\"color: rgb(182, 175, 175);\">-15-government-PSAs-that-would-never-fly-in-the-</span></div><div align=\"center\"><span style=\"color: rgb(182, 175, 175);\">Internet-age.html#slide5</span></div>",
+          "size": 33,
+          "selected": true
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": true,
+      "active": true,
+      "x": 3182,
+      "y": 281
+    }
+  ],
+  "background": "bg-solid-sky",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 385,
+        "y": 35,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#b6afaf\">Sources</font>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 21,
+        "y": 199,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<div align=\"center\"><font color=\"#b6afaf\">https://www.flickr.com/photos/kellybumford/2577526917/<br><br>https://modelviewculture.com/pieces/sex-wor<br>k-and-surveillance<br><br>http://www.npr.org/blogs/alltechconsidered/2014/09/<br>15/346149979/<br>smartphones-are-used-to-stalk-control-domestic-abuse-victims<br></font></div><div align=\"center\"><font color=\"#b6afaf\"><br></font></div><div align=\"center\"><font color=\"#b6afaf\">http://www.csoonline.com/article/2130983/access-control</font><span style=\"color: rgb(182, 175, 175);\">/101611</span></div><div align=\"center\"><span style=\"color: rgb(182, 175, 175);\">-15-government-PSAs-that-would-never-fly-in-the-</span></div><div align=\"center\"><span style=\"color: rgb(182, 175, 175);\">Internet-age.html#slide5</span></div>",
+        "size": 33,
+        "selected": true
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 18,
+    "selected": true,
+    "active": true,
+    "x": 3182,
+    "y": 281
+  },
+  "fileName": "PrivacyMatters.strut",
+  "surface": "bg-surf-grad-purple",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 2560,
+  "overviewY": 441
+}
