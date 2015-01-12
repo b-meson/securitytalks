@@ -5,16 +5,13 @@ IMSI Catchers: Practical Knowledge for Activists
 _"Not on the phone"_ --Stringer Bell
 
 Introduction
------
 	Activists on the streets face threats of State repression ranging from surveillance, arrest, physical violence to start. Technology tools by themselves will not reduce this State power but tools used as part of a _security culture_ can make an impact.  There are already a few excellent guides [0] so this short guide will explore IMSI catchers [1], their capabilities, as well as some practical counter surveillance on the streets. Sections that are technical will be marked with a asterisk for optional reading
 
-GSM telephony
------
+GSM Technology
 	*****Your phone (MS) connects to a cell phone tower [2]. In order to preserve battery life, it will by design pick the strongest broadcasting tower in your area. When the connection occurs, you connect to a a base transceiver station (BTS) and multiple BTS create a general location area code (LAC).  The BTS your phone connects to determines a large amount of the capabilities of your connection: is it encrypted or not, how is it encrypted, is it 2G/3G etc. So when your phone (MS) makes the _first_ connection to your phone a large amount of information about your phone is handed off 
 is also uniquely places activists at demonstrations, which is the _largest_ concern for activists who wish tto remain anonymous.
 
 Phones
------
 	_Phone_are_tracking_devices (NEVER forget this fact!) Your phone will routinely ping your location to a BTS and records of your physical location will be stored in a database somewhere. (Activists should consider leaving their phones at home if you don't want your location tracked). However to uniquely identify your phone, you need a few key bits of information:
 	
 	* IMSI    -- International Mobile Subscriber Number
@@ -22,26 +19,22 @@ Phones
 	* MSISDN  -- Phone number 
 
 IMSI Catchers and their capabilities
------	
 	When your phone connects to a new base station (BTS), the IMSI that uniquely identifies your phone is broadcast to the BTS. Because IMSIs so uniquely identify a phone, a temporary id is generated for most actual use (TMSI).  But the first connection is what gets exploited by IMSI Catchers. IMSI Catchers work by broadcasting as a cell tower and tricking your phone into handing your IMSI over to it. [3] There are also two modes that Stingrays (a trademarked type of IMSI Catcher) can operate in; a passive and active mode. In the active mode, a phone is constantly ping'ed and tracked. A passive mode will just survey the area and could dump all phone records in the area into a database. The author suspects that IMSI Catchers in passive mode are used at demonstrations. That way the police can tell *who* might have been in the area for intelligence gathering. This is a cause for immediate concern. 
 	For 2G, IMSI Catchers can capture your dialed numbers, _content_ of your calls / SMS, metadata, and SMS information can be intercepted and in, some models, content can be modified in real time. PDF pg 7 [4] For 3G and LTE, there is an additional authentication mechanism [5] so content interception isn't possible but IMSI Catching still works. It is also possible to "jam" 3G broadcasting to force your phone to use 2G. (There are other attacks to break GSM encryption for 3G/LTE [6])
 
 tl;dr IMSI catchers uniquely identify *your* phone 
 
 Symptoms of IMSI Catchers
------	
 	* Very high battery drain (phone transmits at full power) {see note 1 below}
 	* Denial of Service (phone can't connect at all without rebooting)
 	* Downgrade attacks (3G goes down with 2G only available
 	* Rapidly changing LAC / BTS / Tx & Rx
-
-Note to activists
+	* Note to activists	
 		1. Very high battery drain is expected if you're at a demonstration and tweeting / taking pictures etc. It's can also be explained when hundreds of people congregate in close proximity to each other and hit the same BTS
-		2. Every truck parked near a demonstration isn't an IMSI Catcher. Every time your applications won't open doesn't mean you're being tracked. 
+		2. Every truck parked near a demonstration isn't an IMSI Catcher. Every time your applications won't open doesn't mean you're being tracked.
 		3. Be cautious but no paranoid ;-)
 
 Counter-Surveillance
------
 	* Look for amberjack antennas [7][8] 
 	* Turn phone off
 	* SnoopSnitch (Android)
