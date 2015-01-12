@@ -33,6 +33,7 @@ tl;dr IMSI catchers uniquely identify *your* phone
 ### Symptoms of IMSI Catchers
 
 Some symptoms of IMSI Catchers are: 
+	
 	* Very high battery drain (phone transmits at full power) {see note 1 below}
 	* Denial of Service (phone can't connect at all without rebooting)
 	* Downgrade attacks (3G goes down with 2G only available
