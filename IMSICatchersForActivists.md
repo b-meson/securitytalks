@@ -32,12 +32,14 @@ tl;dr IMSI catchers uniquely identify *your* phone
 ### Symptoms of IMSI Catchers
 
 Some symptoms of IMSI Catchers are: 
+	
 	* Very high battery drain (phone transmits at full power) but see notes below
 	* Denial of Service (phone can't connect at all without rebooting)
 	* Downgrade attacks (3G goes down with 2G only available
 	* Rapidly changing LAC / BTS / Tx & Rx
 
 Note to activists:
+	
 	* Very high battery drain is expected if you're at a demonstration and tweeting / taking pictures etc. It's can also be explained when hundreds of people congregate in close proximity to each other and hit the same BTS
 	* Every truck parked near a demonstration isn't an IMSI Catcher. Every time your applications won't open doesn't mean you're being tracked.
 	* Be cautious but no paranoid ;-)
