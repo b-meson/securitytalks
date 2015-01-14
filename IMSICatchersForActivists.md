@@ -49,6 +49,7 @@ Note to activists:
 ### Counter-Surveillance
 
 A small list of counter-surveillance that activists can do on the ground include: 
+	
 	* Look for amberjack antennas [7][8] 
 	* Turn phone off
 	* SnoopSnitch (Android)
