@@ -40,8 +40,10 @@ Some symptoms of IMSI Catchers are:
 
 Note to activists:
 	
-	* Very high battery drain is expected if you're at a demonstration and tweeting / taking pictures etc. It's can also be explained when hundreds of people congregate in close proximity to each other and hit the same BTS
-	* Every truck parked near a demonstration isn't an IMSI Catcher. Every time your applications won't open doesn't mean you're being tracked.
+	* Very high battery drain is expected if you're at a demonstration and tweeting / taking pictures etc. 
+	* It can also be congestion due to close proximity to each other and hitting the same BTS
+	* Every truck parked near a demonstration isn't an IMSI Catcher. 
+	* Every time your applications won't open doesn't mean you're being tracked.
 	* Be cautious but no paranoid ;-)
 
 ### Counter-Surveillance
