@@ -7,7 +7,7 @@ _"Not on the phone"_   --Stringer Bell
 
 ## Introduction
 
-Activists on the streets face threats of State repression ranging from surveillance, arrest, physical violence to start. Technology tools by themselves will not reduce this State power but tools used as part of a _security culture_ can make an impact.  There are already a few excellent guides [0] on cell phones for activists but this short guide will explore IMSI catchers [1], their capabilities, as well as some practical counter surveillance on the streets. Sections that are technical will be marked with a asterisk for optional reading
+Activists on the streets face a multitude of threats of State repression ranging from surveillance, arrest, and physical violence at minimum. Technology tools by themselves will not reduce this State power but tools used as part of a _security culture_ can make an impact.  There already exist a few excellent guides [0] on cell phones knowledge for activists. However this short guide will specifically explore IMSI catchers [1], their capabilities, as well as some practical counter-surveillance measure. Sections that are technical, but not required reading, will be marked with a asterisks at the start of the paragraph for optional reading
 
 ### GSM Technology
 
@@ -23,11 +23,11 @@ _Phones_ _are_ _tracking_ _devices_ (NEVER forget this fact!) Your phone will ro
 
 ### IMSI Catchers and their capabilities
 
-When your phone connects to a new base station (BTS), the IMSI that uniquely identifies your phone is broadcast to the BTS. Because IMSIs so uniquely identify a phone, a temporary id is generated for most actual use (TMSI).  But the first connection is what gets exploited by IMSI Catchers. IMSI Catchers work by broadcasting as a cell tower and tricking your phone into handing your IMSI over to it. [3] There are also two modes that Stingrays (a trademarked type of IMSI Catcher) can operate in; a passive and active mode. In the active mode, a phone is constantly ping'ed and tracked. A passive mode will just survey the area and could dump all phone records in the area into a database. I suspect that IMSI Catchers in passive mode are used at demonstrations. That way the police can tell *who* might have been in the area for intelligence gathering. This is a cause for immediate concern. 
+When your phone connects to a new BTS for the first time, the IMSI that uniquely identifies your phone is broadcast to the BTS. Because IMSIs so uniquely identify a phone, a temporary id (TMSI) is generated for most actual uses.  The first connection is what gets exploited by IMSI Catchers. IMSI Catchers work by broadcasting as a fake cell tower and tricking your phone into handing your IMSI over to it. [3] There are also two modes that Stingrays (a trademarked type of IMSI Catcher) can operate in; a passive and active mode. In the active mode, a phone is constantly ping'ed and tracked. In an active attack, the phone will broadcast its location at its full power output which will present as very high battery drain. Passive attackers are much harder to detect because they may be present for weeks or months at a time (say outside of a foreign embassy). Passive mode are more interested in profiling information, namely phone routing information or "metadata" about who was dialing who, duration of calls etc.) A passive attacker could survey andarea and dump all phone records in an area into a database. I suspect that IMSI Catchers in passive mode are used at demonstrations to map social networks. That way the police can tell *who* might have been in the area for intelligence gathering. There also exist so called "hybrid" modes which mix these two properties.  
 
-For 2G, IMSI Catchers (depending on the model/manufacturer) can capture your dialed numbers, _content_ of your calls / SMS, metadata, and SMS information can be intercepted and in, some models, content can be modified in real time. PDF pg 7 [4] For 3G and LTE, there is an additional authentication mechanism [5] so content interception isn't possible but IMSI Catching still works. It is also possible to "jam" 3G broadcasting to force your phone to use 2G. (There are other attacks to break GSM encryption for 3G/LTE [6])
+For 2G, IMSI Catchers (depending on the model/manufacturer) can capture your dialed numbers, _content_ of your calls / SMS, metadata, and SMS information can be intercepted and in, some models, content can be modified in real time. PDF pg 7 [4] For 3G and LTE, there is an additional authentication mechanism [5] so content interception isn't possible but IMSI Catching still works. It is also possible to "jam" 3G broadcasting to force your phone to use 2G, so called downgrade attacks. (There are other attacks to break GSM encryption for 3G/LTE [6])
 
-tl;dr IMSI catchers uniquely identify *your* phone 
+tl;dr IMSI catchers uniquely identify *your* phone number 
 
 ### Symptoms of IMSI Catchers
 
@@ -54,6 +54,7 @@ A small list of counter-surveillance that activists can do on the ground include
 	* Turn phone off
 	* SnoopSnitch (Android)
 	* AIMSICD (Android)
+	* Firechat or PirateBox (WiFi only communication)
 	* End-To-End Encryption
 
 #### Android 
@@ -64,7 +65,7 @@ AIMSICD is another promising application in active development. A coupe of nice 
 
 #### End-To-End Encryption
 
-"Encryption works. Properly implemented strong crypto systems are one of the few things that you can rely on". While properly implemened strong crypto can be relied upon, GSM model badly broken in many ways. IMSI catchers can uniquely identify your phone and possibly content but to protect from _eavesdropping_ you can use SMS encryption with TextSecure [13] for Android. Phone calls can be encrypted using RedPhone [14] for Android or Signal for iOS [15]. These are free, open-source applications that allow users to communicate with very user friendly applications. 
+"Properly implemented strong crypto systems are one of the few things that you can rely on". While cryptography can be relied upon to protect your content, the GSM model is badly broken in many ways. IMSI catchers can still uniquely identify your phone but to protect from _eavesdropping_ you can use SMS encryption with TextSecure [13] for Android or Signal for iOS [15]. Phone calls can be encrypted using RedPhone [14] for Android or Signal for iOS [15]. These are free, open-source applications that allow users to communicate with very user friendly applications. 
 
 ### Trade-Offs
 
@@ -72,7 +73,7 @@ The downside to these applications (SnoopSnitch and AIMSICD) is that they requir
 
 Another trade-off with Snoop Snitch is that it will send traffic back to SDR Labs to help build a database of SS7/IMSI Catcher attacks. You may not want this.  
 
-Is this all worth it? I'd argue that IMSI Catchers posses a real threat to anonymous political speech. There is evidence of coordinated crackdown on protests in the last few years [16][17] and see a very real need to update our threat models. We know in the past that IMSI Catchers were deployed on US soil [18] against protesters (this was in 2003) and of local police are only getting more money from DHS under "counter terrorism" grants.
+Is this all worth it? I'd argue that IMSI Catchers posses a real threat to anonymous political speech. There is evidence of coordinated crackdown on protests in the last few years [16][17] and see a very real need to update our threat models. We know in the past that IMSI Catchers were deployed on US soil [18] against protesters in 2003 and local police are only getting more money from DHS under "counter terrorism" grants. It has also been widely reported that IMSI Catchers have been found at demonstrations in Egypt, Germany, Ukraine, etc.
 
 ```
 Sources:
