@@ -1,0 +1,1072 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 133,
+          "y": 529,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Freddy Martinez</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">freddymartinez9 AT gmail DOT com</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">4554 DB89 B856 F6E7 487D 59BF F319 5C29 2A82 2EF5</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Twitter:&nbsp;@B_meson</font></div>",
+          "size": 30,
+          "selected": false,
+          "skewX": 0,
+          "skewY": 0
+        },
+        {
+          "TextBox": {},
+          "x": 216,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">IMSI Catchers</font></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 181,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Detecting cell phone surveillance&nbsp;</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">at political protests&nbsp;</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 163,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">whois B_meson&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 19,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">Physicist<br>Linux System Administrator&nbsp;<br>“A skinny fidgety 27-year old”<br>Activist in various horizontally-<br>organized leftist &nbsp;organizations<br>Stories published in&nbsp;<i>Al Jazeera</i>, &nbsp;<br><i>WGN,&nbsp;CBS, Motherboard...</i><br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/IccyGKA.jpg",
+          "type": "Image",
+          "x": 602,
+          "y": 256,
+          "scale": {
+            "x": 0.7254545454545456,
+            "y": 0.7254545454545456,
+            "width": 399.00000000000006,
+            "height": 298.8872727272728
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -3.14,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 179,
+      "y": 350
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 144,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\">Scale of Problem</font></span></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 18,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 37,
+          "text": "<font color=\"#eeeeee\">Tower Dumps (Kiev)<br>Free Trade Area of the Americas <br>(USA) 2003<br>Reported IMSI catchers in <br>Dresden and&nbsp;Leipzig (Germany) <br>http://t.co/fjRu1HxtyB</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/A0KjAlf.jpg",
+          "type": "Image",
+          "x": 556.2757475083057,
+          "y": 256,
+          "scale": {
+            "x": 0.9333333333333335,
+            "y": 0.9333333333333335,
+            "width": 448.00000000000006,
+            "height": 298.6666666666667
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 556,
+          "y": 586,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">“Dear subscriber, you are registered <br>as a participant in a mass disturbance.”<br>Photo (E. Kramer / NYT)</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -3.14,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 425,
+      "y": 351
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 227,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\">IMSI Catcher&nbsp;</font></span></div><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\">Capabilities</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 252,
+          "y": 379,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\">Capture text messages content</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\">Capture voice content</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\">Gather IMSIs (phone numbers)</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\">Real-time location tracking</font></span></div><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\">DNRs</div><div style=\"text-align: center;\">Send messages on behalf of users</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -3.14,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 427,
+      "y": 183
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 17,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 113,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238); font-family: Ubuntu, sans-serif;\">Last Year in Review</span></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 667,
+      "y": 183
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 132,
+          "y": 128,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\">Baseband reverse engineering</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\"><br></font></span></div><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\">Filed a bunch of FOIA lawsuits&nbsp;</div><div style=\"text-align: center;\">before visiting DEF CON 22</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Idea of using SDR / laptops to sniff&nbsp;</div><div style=\"text-align: center;\">ARFCNs (transmission Channels),&nbsp;</div><div style=\"text-align: center;\">LAC (location area code), Cell IDs&nbsp;</div></font><div style=\"text-align: center;\"><br></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 209,
+          "y": 595,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><font color=\"#4687d8\" face=\"Ubuntu, sans-serif\">Visit Wireless Village, Packet Capture</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 668,
+      "y": 355
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 32,
+          "y": 211,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(209, 208, 208);\"><font face=\"Ubuntu, sans-serif\">New This Year:</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(209, 208, 208);\"><font face=\"Ubuntu, sans-serif\">DRTBox</font></span></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 909,
+      "y": 358
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/K1k17Up.png",
+          "type": "Image",
+          "x": 166,
+          "y": 158,
+          "scale": {
+            "x": 1.7238805970149254,
+            "y": 1.7238805970149254,
+            "width": 693,
+            "height": 451.65671641791045
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/e72Ft9I.png",
+      "x": 935,
+      "y": -92,
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 106,
+          "y": 104,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 33,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">\"The DRT1000 system may be used to: identify and collect <br><i>audio</i>, data and Signal Related Information (SRI)”<br>&nbsp;<br>NSA – BOUNDLESSINFORMANT<br><br>“CIA Aided Program to Spy on U.S. Cellphones” – WSJ<br><br>\"The U.S. Marshals Service program, which became fully <br>functional around 2007, operates Cessna aircraft from at <br>least five metropolitan-area airports, with a flying range <br>covering most of the U.S. population, according to people<br>&nbsp;familiar with the program.\" – WSJ<br><br>See reporting by @AliWinston&nbsp;<br></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 931,
+      "y": 99,
+      "background": "bg-solid-sky",
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/LcqTOkl.png",
+          "type": "Image",
+          "x": 49,
+          "y": 111,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-sky",
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 205,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">Requirements</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 77,
+          "y": 233,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 51,
+          "text": "<font face=\"Ubuntu, sans-serif\" color=\"#eeeeee\">Counter-surveillance should be cheap<br><br><br></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1220,
+      "y": 284,
+      "surface": "bg-surf-grad-sky",
+      "background": "bg-solid-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 77,
+          "y": 233,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 51,
+          "text": "<font face=\"Ubuntu, sans-serif\" color=\"#eeeeee\">Counter-surveillance should be cheap<br><br>Commercial / off-the-shelf hardware<br><br></font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 205,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">Requirements</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-sky",
+      "x": 1221,
+      "y": 439,
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 205,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">Requirements</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 77,
+          "y": 233,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 51,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Counter-surveillance should be cheap<br><br>Commercial / off-the-shelf hardware<br><br>Low barriers to entry</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 1221,
+      "y": 595,
+      "surface": "bg-surf-grad-sky",
+      "background": "bg-solid-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 47,
+          "y": 327,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\"><b>Countersurveillance</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-sky",
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 70,
+          "y": 141,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 51,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\"><i>Never</i> let your adversary know you've&nbsp;</font></span></div><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\">detected their surveillance</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Know your <i>operating environment</i></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Setup <i>early</i> and surveil baselines&nbsp;</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Map everything, take notes</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-sky",
+      "x": 1221,
+      "y": 750,
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 264,
+          "y": 298,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\"><b>Evasion</b><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-sky",
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 45,
+          "text": "<div style=\"text-align: left;\"><span style=\"font-family: Ubuntu; color: rgb(0, 0, 0);\">WiFi only device&nbsp;</span></div><font color=\"#000000\"><div style=\"text-align: left;\"><span style=\"font-family: Ubuntu;\">with chat client &amp;</span></div><font face=\"Ubuntu\"><div style=\"text-align: left;\">anonymous file&nbsp;</div><div style=\"text-align: left;\">upload and&nbsp;download</div></font><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">piratebox.cc&nbsp;</div><div style=\"text-align: left;\">@pirateboxcamp</div><div style=\"text-align: left;\">Cost ~30USD</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 283,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\"><b>PirateBox</b></font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/qt0OUAE.jpg",
+          "type": "Image",
+          "x": 532,
+          "y": 256,
+          "scale": {
+            "x": 0.8462962962962963,
+            "y": 0.8462962962962963,
+            "width": 457,
+            "height": 457
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-sky",
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/7VjwFyB.png",
+          "type": "Image",
+          "x": 128,
+          "y": 219,
+          "scale": {
+            "x": 1.299492385786802,
+            "y": 1.299492385786802,
+            "width": 767.9999999999999,
+            "height": 331.3705583756345
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 66,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#000000\" face=\"Ubuntu\"><b>Signal / TextSecure</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 32,
+          "y": 594,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 45,
+          "text": "<font color=\"#000000\" face=\"Ubuntu, sans-serif\">Getting updates from remote location<br>Will only evade <i>SMS intercept</i> not IMSI catchers</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-sky",
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 95,
+          "y": 257,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><font face=\"Ubuntu, sans-serif\">iPod Touch with Signal and connect to&nbsp;</font></span></div><font color=\"#000000\" face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\">trusted APs only&nbsp;(high security)</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Moto E with components ripped out.</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">FireChat - Mesh Networking</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 123,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\"><b>Other Techniques</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-sky",
+      "surface": "bg-surf-grad-sky"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 28,
+          "y": 255,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 215,
+          "text": "<font face=\"Ubuntu\" color=\"#eeeeee\">Detection</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 174,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 50,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Three separate reports<br>of broadcasts <br>appearing&nbsp;after police <br>cars showed up<br><i><br>Feb 2014<br>April 2015</i></font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/u89O0n0.png",
+          "type": "Image",
+          "x": 588,
+          "y": 58,
+          "scale": {
+            "x": 0.38526119402985076,
+            "y": 0.38526119402985076,
+            "width": 413,
+            "height": 651.8619402985075
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": true,
+      "active": true
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 295,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\"><b>Detection</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 113,
+          "y": 236,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 46,
+          "text": "<div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Rooted Moto E with prepaid SIM card &nbsp;</font></div><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\">and&nbsp;&nbsp;SnoopSnitch installed</div><div style=\"text-align: center;\"><br></div></font><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Establish a neutral third party that&nbsp;</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><i style=\"font-style: italic;\">isn't</i><i> active </i>in your protest to<i>&nbsp;</i></font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">run your detection tools</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">We've trained various activists&nbsp;</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">around the country with these tools</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 70,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\"><b>Hardware Detection</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 143,
+          "y": 257,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\">FONA (GSM microcontroller)</font></span></div><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\">pySerial in python</div><div style=\"text-align: center;\">Rasberry Pi<span class=\"Apple-tab-span\" style=\"white-space: pre;\">\t</span></div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 595,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#4687d8\" face=\"Ubuntu, sans-serif\">&nbsp;Direct access to AT commands</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 23,
+          "y": 257,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\">Go out into your communities and teach the risks to activists</font></span></div><div style=\"text-align: center;\"><span style=\"color: rgb(238, 238, 238);\"><font face=\"Ubuntu, sans-serif\"><br></font></span></div><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><div style=\"text-align: center;\">Find trustworthy groups and give them rooted Moto E's</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Cell phone surveillance is only increasing</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Cheaper 4G / LTE chips with baseband access</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 223,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\"><b>Future Work</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 28,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">[0] Snoop Snitch. SRLabs 2014<br>https:// opensource. srlabs .de/projects/ snoopsnitch<br>[1] AIMSICD  https://github.com/SecUpwN/Android-IMSI-Catcher-Detector<br>[2] “Mobile Self-Defense”. #31c3 Karsten Nohl<br></font><div style=\"text-align: left;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">[3] “IMSI Catcher” Daehyun Strobel. Jul 2007 Ruhr-Universität Bochum</font></div><div style=\"text-align: left;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">[4] “IMSI-Catcher and Man-in-the-Middle attacks” Dammann. 2011</font></div><div style=\"text-align: left;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">[5] OsmocomBB http:// bb.oscom.org/trac</font></div><div style=\"text-align: left;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">[6] “Stingray Talk” AACJ Winter Seminar. Daniel Rigmaiden</font></div><div style=\"text-align: left;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">[7] ““Defending against Stingrays and other cellular attacks at protests”&nbsp;</font></div><div style=\"text-align: left;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">https://yawnbox.com/?p=2580  2015. Christopher Sheats</font></div><div style=\"text-align: left;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">[8] Ukraine’s Opposition Says Government Stirs Violence NYT 2015</font></div><div style=\"text-align: left;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">http://thelede.blogs.nytimes.com//2014/01/22/</font></div><div style=\"text-align: left;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">ominous-text-message-sent-to-protesters-in-kiev-</font></div><div style=\"text-align: left;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">sends-chills-around-the-internet/</font></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 251,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\"><b>References</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 233,
+          "y": 191,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 33,
+          "text": "<div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Chicago Cypherpunks Club</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">SSHc: Southside Hackerspace Chicago</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Cryptovillage Organizers</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Matt Topic (Loevy &amp; Loevy)</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Drew Fustini</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Jen Helsby</font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\"><br></font></div><div style=\"text-align: center;\"><font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Brian Kroll</font></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 341,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\"><b>Thanks</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false
+    }
+  ],
+  "background": "bg-solid-lavender",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 24,
+        "y": 174,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 50,
+        "text": "<font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Three separate reports<br>of broadcasts <br>appearing&nbsp;after police <br>cars showed up<br><i><br>Feb 2014<br>April 2015</i></font><br>",
+        "selected": false
+      },
+      {
+        "src": "http://i.imgur.com/u89O0n0.png",
+        "type": "Image",
+        "x": 588,
+        "y": 58,
+        "scale": {
+          "x": 0.38526119402985076,
+          "y": 0.38526119402985076,
+          "width": 413,
+          "height": 651.8619402985075
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 20,
+    "selected": true,
+    "active": true
+  },
+  "fileName": "Countersurveillance",
+  "surface": "bg-surf-grad-lavender",
+  "customStylesheet": "/*.example {\n\tborder: 4px groove orange;\n}*/",
+  "deckVersion": "1.0",
+  "cannedTransition": "carousel",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
