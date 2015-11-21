@@ -65,7 +65,7 @@ AIMSICD is another promising application in active development. A coupe of nice 
 
 #### End-To-End Encryption
 
-"Properly implemented strong crypto systems are one of the few things that you can rely on". While cryptography can be relied upon to protect your content, the GSM model is badly broken in many ways. IMSI catchers can still uniquely identify your phone but to protect from _eavesdropping_ you can use SMS encryption with TextSecure [13] for Android or Signal for iOS [15]. Phone calls can be encrypted using RedPhone [14] for Android or Signal for iOS [15]. These are free, open-source applications that allow users to communicate with very user friendly applications. 
+"Properly implemented strong crypto systems are one of the few things that you can rely on". While cryptography can be relied upon to protect your content, the GSM model is badly broken in many ways. IMSI catchers can still uniquely identify your phone but to protect from _eavesdropping_ you can use SMS encryption with Signal [13] for Android or iOS [15]. Phone calls can be encrypted using Signal as well for either platform. These are free, open-source applications that allow users to communicate with very user friendly applications. 
 
 ### Trade-Offs
 
