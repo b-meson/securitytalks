@@ -44,7 +44,7 @@ Note to activists:
 	* It can also be congestion due to close proximity to each other and hitting the same BTS
 	* Every truck parked near a demonstration isn't an IMSI Catcher. 
 	* Every time your applications won't open doesn't mean you're being tracked.
-	* Be cautious but no paranoid ;-)
+	* Be cautious but not paranoid ;-)
 
 ### Counter-Surveillance
 
