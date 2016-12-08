@@ -1,4 +1,4 @@
-:title: Digital Security for Resistors
+:title: Digital Security fGor Resistors
 :author: b_meson
 :css: break.css
 
@@ -11,7 +11,7 @@ Digital Security for Resistors
 
 ----
 
-$ whomai
+$ whoami
 ========
 
 Freddy Martinez (``@B_meson``), director of (``@LucyParsonsLabs``), FOIA 🤓, hacker, anarchist organizer, operations engineer...  
@@ -149,7 +149,7 @@ Passwords
 
  * Password managers, LastPass is *free*. 
  * Use a good passphrase for the password manager "OrangeCheetoSilverChariotRamUp4Asses"
- * Passphrase protip: intentionally misspell **one word**
+ * Passphrase **PROTIP**: intentionally misspell **one word**
  * One password per login, don't go extreme but be rational. (i.e. Spotify != Gmail)
 
 ----
@@ -231,13 +231,15 @@ Don't use Private Internet Access VPN. Mullvad is decent, has mobile client (IKE
 Tor
 ===
 
+https://www.torproject.org 
+
 ----
 
 .. image:: images/tor.jpg
 
 ----
 
-Tor proxies your request through multiple relays and encrypts / re-encrypts along ever three hops. This **should** be any TCP-based connection.
+Tor proxies your request through multiple relays and encrypts / re-encrypts along three hops. 
 
  * Chat / OTR
  * Web-browsing
@@ -256,7 +258,7 @@ Be careful of traffic correlation attacks on the network.
 Off-The-Record (OTR)
 ====================
 
-Uses a DH-DR for Forward Secrecy. Requires a registered Jabber account.	Install Pidgin or xmpp-client or Adium or ChatSecure (mobile)
+Forward Secrecy. Requires a registered Jabber account.	Install Pidgin or xmpp-client or Adium or ChatSecure (mobile)
 
 ----
 
@@ -288,19 +290,33 @@ Email?
 Phone Security 
 ===============	
 
- * Encrypt the device (iOS has it build in, use a passphrase)
+ * Encrypt the device (iOS has it built in, use a passphrase)
  * Turn *off* fingerprint authentication
- * Signal/WhatApp
+ * Signal/WhatsApp
  * Your phone is tracking device and recording device
  * Android is a walking hotbed of malware, generally iOS is more secure. 
  * Put those fucking things away @ demos.
 
 ----
 
+.. image: images/telephone.png
+
+----
+
+Signal
+======
+
+ * Requires a phone number
+ * Google Chrome extension
+ * Check codes (QR)
+ * Android, encrypt DB
+
+----
+
 Advanced
 ========
 
- * Qubes for targeted malware protection. Tor in VMs via Whonix
+ * QubesOS for targeted malware protection. Tor in VMs via Whonix
 
 ----
 
